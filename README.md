@@ -1,7 +1,8 @@
 # React + Vite
 # Getting Started with Create React App
 ### clone :-
-[https://github.com/Shiakh0112/product_app_using_react.git]
+
+[https://github.com/Shiakh0112/React-Food-E-coommerce.git]
  
 ### Deploy :-
 [https://66c35d0d2fc73111d3926ebe--marvelous-gumdrop-b69a4d.netlify.app/]
@@ -9,6 +10,8 @@
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm i`
+install all the depandancy 
 
 ### `npm start`
 
